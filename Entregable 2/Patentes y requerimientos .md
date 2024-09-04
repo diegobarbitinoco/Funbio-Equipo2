@@ -16,22 +16,22 @@
 
 2. **No Funcionales: ¿Cuáles son las propiedades del diseño?**
 
-   * **Durabilidad**   
+   * **Tener alta durabilidad**   
      El material seleccionado debe asegurar una larga vida útil y resistencia a los diferentes ambientes a los que va a estar expuesto.
 
-   * **Comodidad**  
+   * **Ser cómodo**  
      El material seleccionado debe resultar cómodo para el paciente, en especial si va a ser un dispositivo de uso prolongado; debe tener en cuenta la integridad de la piel y evitar ocasionar lesiones por presión. Se considera que debe ser ligero, tener superficies antideslizantes, un diseño ergonómico, entre otros.
 
    * **Brindar seguridad**  
      La principal función del diseño es garantizar la seguridad del paciente durante las transferencias o aseo personal.
 
-   * **Costo**  
+   * **Tener costo accesible**  
      El costo de producción debe propiciar que el precio final del dispositivo resulte económico y accesible para todos los usuarios.
      
    * **Permitir uso independiente**  
      El paciente debe ser capaz de utilizar el producto con la menor asistencia posible.
 
-   * **Facilidad el uso**  
+   * **Facilitar el uso**  
      Debe ser lo más intuitivo posible y fácil de acostumbrarse a su uso, tanto para los pacientes como cuidadores.
      
    * **Ser fácil de mantener**  

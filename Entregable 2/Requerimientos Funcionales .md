@@ -5,7 +5,7 @@
 ![imagen](https://i.postimg.cc/Dzzn96Pk/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-1.png)
 ![imagen]()
 ![imagen]()
-
+# <p align="center"> Lista de requerimientos </p>
 1. **Funcionales: ¿Qué es lo que el diseño debe hacer?**
 
    * **Propiciar el transporte independiente**  
@@ -42,5 +42,9 @@
 
    * **Portable y adaptable**   
      El producto debe poder utilizarse en diferentes situaciones y ambientes; ya sea por adaptación o material.
+# <p align="center"> Propuesta de Solución </p>
+Un dispositivo que ayude al paciente a realizar transferencias de la silla de ruedas a otras superficies, como la cama, el baño o la ducha. de manera más fácil y con la menor asistencia posible.
+
+
 
      

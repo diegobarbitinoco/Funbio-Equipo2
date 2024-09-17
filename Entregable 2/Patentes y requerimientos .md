@@ -1,4 +1,6 @@
 # <p align="center"> Estado del Arte </p>
+# <p align="center"> Componentes </p>
+
 ## Productos Comerciales ##
 ![imagen](https://i.postimg.cc/kD3cWVGf/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul.png)
 # <p align="center"> Patentes </p>

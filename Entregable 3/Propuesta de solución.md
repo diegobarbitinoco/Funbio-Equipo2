@@ -17,6 +17,7 @@ Descripción de la solución:
 Ortesis con sensores de proximidad, para 
 
 Características del prototipo:  
+[![Presentaci-n-Proyecto-Creativo-Doodle-Violeta-y-Amarillo.jpg](https://i.postimg.cc/rsM4RrwX/Presentaci-n-Proyecto-Creativo-Doodle-Violeta-y-Amarillo.jpg)](https://postimg.cc/8JXcqsvt)
 Beneficios:  
 Viabilidad técnica:  
 Colocar sensores de 

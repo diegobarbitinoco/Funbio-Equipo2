@@ -1,6 +1,6 @@
 # <p align="center"> Coherencia Problemática-Propuesta de solución </p>
 
-1. **Problemática **
+## 1. Problemática ##
 
 Contexto:  
 Las lesiones de médula espinal en el Perú revela que el instituto nacional de rehabilitación es la única institución que ofrece programas de rehabilitación integral, siendo cruciales para personas de bajos recursos, quienes representan el 70.8% de los casos. A nivel mundial, más de 15 millones de personas sufren LME , mayormente debido a traumatismos. Estas lesiones conllevan altos costos sociales y económicos, afectando la esperanza de vida y la participación en la economía. En el caso del paciente, presenta una cuadriplejia incompleta con espasticidad severa, debido a una lesión medular cervical baja ocurrida hace mas de cuatro años.
@@ -11,7 +11,7 @@ El individuo enfrenta dificultades para mover la mayoría de sus articulaciones,
 Impacto:   
 La lesión medular afecta al paciente con cuadraplejia incompleta, limitando sus movilidad y sensibilidad en las extremidades, lo que dificulta sus actividades diarias e independencia. Sufre espasticidad severa, hipertrofia muscular y reflejos exaltados, lo que agrava su estado físico. Además, enfrenta riesgos de complicaciones secundarias como úlceras por presión.
 
-2. **Propuesta de solución **
+## 2. Propuesta de solución ##
 
 Descripción de la solución:   
 Ortesis con sensores de proximidad, para 
@@ -22,7 +22,7 @@ Beneficios:
 Viabilidad técnica:  
 Colocar sensores de 
 
-3. **Coherencia**
+## 3. Coherencia ##
 
 Contexto del proyecto:
 

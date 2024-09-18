@@ -1,4 +1,4 @@
-**Coherencia Problemática-Propuesta de solución**
+# <p align="center"> Coherencia Problemática-Propuesta de solución </p>
 
 1. **Problemática **
 

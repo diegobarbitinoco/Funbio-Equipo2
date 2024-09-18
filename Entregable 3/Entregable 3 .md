@@ -1,6 +1,6 @@
 **Coherencia Problemática-Propuesta de solución**
 
-1. **Problemática (Ángel y Diego)**
+1. **Problemática **
 
 Contexto:  
 Las lesiones de médula espinal en el Perú revela que el instituto nacional de rehabilitación es la única institución que ofrece programas de rehabilitación integral, siendo cruciales para personas de bajos recursos, quienes representan el 70.8% de los casos. A nivel mundial, más de 15 millones de personas sufren LME , mayormente debido a traumatismos. Estas lesiones conllevan altos costos sociales y económicos, afectando la esperanza de vida y la participación en la economía. En el caso del paciente, presenta una cuadriplejia incompleta con espasticidad severa, debido a una lesión medular cervical baja ocurrida hace mas de cuatro años.
@@ -11,7 +11,7 @@ El individuo enfrenta dificultades para mover la mayoría de sus articulaciones,
 Impacto:   
 La lesión medular afecta al paciente con cuadraplejia incompleta, limitando sus movilidad y sensibilidad en las extremidades, lo que dificulta sus actividades diarias e independencia. Sufre espasticidad severa, hipertrofia muscular y reflejos exaltados, lo que agrava su estado físico. Además, enfrenta riesgos de complicaciones secundarias como úlceras por presión.
 
-2. **Propuesta de solución (Todos, esto lo tenemos que coordinar como grupo y ojalá se pueda habiéndonos reunido con las asesoras)**
+2. **Propuesta de solución **
 
 Descripción de la solución:   
 Ortesis con sensores de proximidad, para 
@@ -21,14 +21,14 @@ Beneficios:
 Viabilidad técnica:  
 Colocar sensores de 
 
-3. **Coherencia (Marcela, Lucero y Leticia)**
+3. **Coherencia**
 
 Contexto del proyecto:
 
 * En la actualidad existen mejoras en la tecnología de asistencia para los pacientes con lesiones medulares, aunque muchas de las soluciones actuales no proporcionan el soporte necesario para prevenir caídas o manejar cambios repentinos en la postura. Las órtesis tradicionales a veces resultan ser rígidas y limitadas en su capacidad para adaptarse a las necesidades cambiantes de los pacientes durante la marcha, es necesario tener una alerta temprana para los pacientes en riesgo de caída.   
 * Poder combinar la flexibilidad de los materiales de robótica blanda con la tecnología de sensores para proporcionar un soporte ajustable y una detección precisa de riesgos, por lo que implementar materiales de robótica blanda para crear una estructura que se ajuste cómodamente al cuerpo del paciente y al añadirle un módulo de sonido que emita una alerta cuando se detecte un riesgo, aumentaría la ayuda proporcionada al paciente a reaccionar a tiempo y prevenir lesiones.
 
-Objetivos del proyecto: (Lu)
+Objetivos del proyecto: 
 
 - El paciente realice bipedestación de forma segura   
     
@@ -39,7 +39,7 @@ Justificación del prototipo:
 
 Alineación con el problema:
 
-4. **Resumen(Ángel y Diego)**
+4. **Resumen**
 
-dsfsdf
+
 

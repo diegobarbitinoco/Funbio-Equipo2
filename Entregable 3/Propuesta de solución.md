@@ -27,10 +27,6 @@ Objetivos del proyecto:
 
 - El paciente realice bipedestación de forma segura   
     
-  
-Alineación con el problema:
-
-4. **Resumen**
 
 
 

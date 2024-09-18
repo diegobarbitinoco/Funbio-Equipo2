@@ -13,13 +13,11 @@ La lesión medular afecta al paciente con paraplejia incompleta, limitando sus m
 
 ## 2. Propuesta de solución ##
 
-[![Presentaci-n-Proyecto-Creativo-Doodle-Violeta-y-Amarillo.jpg](https://i.postimg.cc/rsM4RrwX/Presentaci-n-Proyecto-Creativo-Doodle-Violeta-y-Amarillo.jpg)](https://postimg.cc/8JXcqsvt)
 
 ## Matriz de morfológica ##
-[![Presentaci-n-Proyecto-Creativo-Doodle-Violeta-y-Amarillo-1.jpg](https://i.postimg.cc/sDLcJH4s/Presentaci-n-Proyecto-Creativo-Doodle-Violeta-y-Amarillo-1.jpg)](https://postimg.cc/WhMgNnyH)
 
 ## Tabla de valoraciones ##
-[![Presentaci-n-Proyecto-Creativo-Doodle-Violeta-y-Amarillo-2.jpg](https://i.postimg.cc/4dP98PjJ/Presentaci-n-Proyecto-Creativo-Doodle-Violeta-y-Amarillo-2.jpg)](https://postimg.cc/TLy11VRS)
+
 
 ## 3. Coherencia ##
 
@@ -32,7 +30,7 @@ Objetivos del proyecto:
 
 - El paciente realice bipedestación de forma segura
 - El paciente use la fuerza de miembros inferiores para realizar las transferencias de manera más cómoda y ganando más independencia
-- 
+
     
 
 

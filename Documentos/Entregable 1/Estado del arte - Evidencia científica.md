@@ -24,7 +24,7 @@ Autores: Dr. John M. Thompson, Dr. Emily S. Rogers
 
 Este estudio explora los efectos del uso de sillas de ruedas con función de bipedestación en pacientes con lesiones medulares. Los autores recopilaron datos clínicos de más de 100 pacientes que usaron estos dispositivos durante un período de seis meses. El estudio concluye que las sillas bipedestadoras no solo mejoran la calidad de vida al permitir a los pacientes interactuar a nivel visual con su entorno, sino que también ofrecen beneficios de salud significativos. Se destaca una reducción en las complicaciones por presión, mejora en la circulación y la densidad ósea, así como en la funcionalidad general.
 
-Al igual que los exoesqueletos, las sillas bipedestadoras son seguras y efectivas para mejorar la salud física y mental de los usuarios. Sin embargo, se concluye que se requieren más estudios para evaluar su efectividad a largo plazo y los posibles efectos secundarios en diferentes tipos de pacientes​.
+Al igual que los exoesqueletos, las sillas bipedestadoras son seguras y efectivas para mejorar la salud física y mental de los usuarios. Sin embargo, se concluye que se requieren más estudios para evaluar su efectividad a largo plazo y los posibles efectos secundarios en diferentes tipos de pacientes​\[2\].
 
 ## Artículo 3
 

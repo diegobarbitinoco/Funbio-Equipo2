@@ -1,6 +1,5 @@
-  
-**Revisión del estado del arte**   
-**Artículo 1**
+# <p align="center"> Revisión del estado del arte</p>
+## Artículo 1
 
 **Recuperación de la marcha en la lesión de la médula espinal: una revisión sistemática con metaanálisis que incluye nuevas tecnologías de rehabilitación**  
 Publicado el 22 de abril de 2023  
@@ -16,7 +15,7 @@ En estudios que evaluaron la combinación de EMT con fisioterapia, se observó l
 * Un aumento del 16,5% en la velocidad en el grupo tratado con placebo más fisioterapia.  
 * Un aumento del 18,7% en la velocidad en el grupo que utilizó solo EMT.
 
-**Artículo 2**
+## Artículo 2
 
 **Artículo: "Impacto del uso de sillas bipedestadoras en la calidad de vida y salud de pacientes con lesión medular"** 
 
@@ -27,16 +26,16 @@ Este estudio explora los efectos del uso de sillas de ruedas con función de bip
 
 Al igual que los exoesqueletos, las sillas bipedestadoras son seguras y efectivas para mejorar la salud física y mental de los usuarios. Sin embargo, se concluye que se requieren más estudios para evaluar su efectividad a largo plazo y los posibles efectos secundarios en diferentes tipos de pacientes​.
 
-**Artículo 3**
+## Artículo 3
 
-# **Efecto del entrenamiento de la marcha asistido por robot sobre la marcha y la función motora en la lesión de la médula espinal: un protocolo de una revisión sistemática con metaanálisis** 
+**Efecto del entrenamiento de la marcha asistido por robot sobre la marcha y la función motora en la lesión de la médula espinal: un protocolo de una revisión sistemática con metaanálisis** 
 
 Publicado en 2023  
 Autora: Ai-lian Chen
 
 En el estudio presentado se muestra con datos la efectividad y a la vez muestra seguridad de la asistencia con robots en la rehabilitación de pacientes con lesiones medulares, se puede concluir que es uso de exoesqueletos y dispositivos robóticos pueden mejorar la velocidad y la distancia de la caminata de los pacientes, se señala que se necesita más estudios y tomar en cuenta los posibles efectos secundarios\[3\].
 
-**Referencias:**  
+## Referencias  
 \[1\]Giuseppe La Rosa, Avola M, Tiziana Di Gregorio, Rocco Salvatore Calabrò, Maria Pia Onesta. Recuperación de la marcha en lesiones de la médula espinal: una revisión sistemática con metanálisis que involucra nuevas tecnologías de rehabilitación. Brain Sciences \[Internet\]. 22 de abril de 2023 \[citado el 28 de agosto de 2024\];13(5):703–3. Disponible en: [https://pubmed.ncbi.nlm.nih.gov/37239175/](https://pubmed.ncbi.nlm.nih.gov/37239175/)
 
 \[2\]Thompson JM, Rogers ES. Impacto del uso de sillas bipedestadoras en la calidad de vida y salud de pacientes con lesión medular. 2022\. Disponible en:  

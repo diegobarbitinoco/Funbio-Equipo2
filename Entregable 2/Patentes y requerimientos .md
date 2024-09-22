@@ -4,6 +4,7 @@
 [![Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-4.png](https://i.postimg.cc/dtF7nGSs/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-4.png)](https://postimg.cc/DmCyw4TH)
 # <p align="center"> Patentes </p>
 ![imagen](https://i.postimg.cc/W1g52cS0/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-2.png)
+[![Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-5.png](https://i.postimg.cc/s22y2gHC/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-5.png)](https://postimg.cc/YvTTnMwd)
 
 
 # <p align="center"> Lista de requerimientos </p>

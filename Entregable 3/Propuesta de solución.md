@@ -14,10 +14,6 @@ La lesión medular afecta al paciente con paraplejia incompleta, limitando sus m
 ## 2. Propuesta de solución ##
 
 
-## Matriz de morfológica ##
-
-## Tabla de valoraciones ##
-
 
 ## 3. Coherencia ##
 
@@ -31,7 +27,7 @@ Objetivos del proyecto:
 - El paciente realice bipedestación de forma segura
 - El paciente use la fuerza de miembros inferiores para realizar las transferencias de manera más cómoda y ganando más independencia
 
-    
+## 4. Resumen ##    
 
 
 

@@ -1,7 +1,7 @@
 # <p align="center"> Estado del Arte </p>
 
 ## Productos Comerciales ##
-![imagen](https://i.postimg.cc/kD3cWVGf/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul.png)
+[![Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-4.png](https://i.postimg.cc/dtF7nGSs/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-4.png)](https://postimg.cc/DmCyw4TH)
 # <p align="center"> Patentes </p>
 ![imagen](https://i.postimg.cc/W1g52cS0/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-2.png)
 ![imagen](https://i.postimg.cc/nLdRWY0W/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-3.png)

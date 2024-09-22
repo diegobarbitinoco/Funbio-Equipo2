@@ -44,11 +44,10 @@
 # <p align="center"> Propuesta de Solución </p>
 Un dispositivo que ayude al paciente a realizar transferencias de la silla de ruedas a otras superficies, como la cama, el baño o la ducha. de manera más fácil y con la menor asistencia posible.
 ## Bibliografías ##
-“SYSTEM AND METHOD FOR DETERMINING USER INTENTION FROM LIMB OR BODY MOTION OR TRAJECTORY TO CONTROL NEUROMUSCULAR STIMUATION OR PROSTHETIC DEVICE OPERATION”. Espacenet. Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://worldwide.espacenet.com/patent/search/family/077555319/publication/US2021275807A1?q=pn=US2021275807A1.
 
 “Knee-joint hinge of standing period control orthosis”. Espacenet. Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://worldwide.espacenet.com/patent/search/family/047955836/publication/CN103006362A?q=CN103006362A.
 
-“Soft exosuit for assistance with human motion”. Espacenet. Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://worldwide.espacenet.com/patent/search/family/051167283/publication/US10427293B2?q=US10427293B2.
+"Composite electrolyte membrane, preparing method and lithium battery," Apr. 2013. Available: https://worldwide.espacenet.com/patent/search/family/047955836/publication/CN103006362A
 
 
 

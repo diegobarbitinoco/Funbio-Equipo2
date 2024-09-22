@@ -5,7 +5,7 @@
 # <p align="center"> Patentes </p>
 ![imagen](https://i.postimg.cc/W1g52cS0/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-2.png)
 [![Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-5.png](https://i.postimg.cc/s22y2gHC/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-5.png)](https://postimg.cc/YvTTnMwd)
-
+[![Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-6.png](https://i.postimg.cc/15m15zjR/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-6.png)](https://postimg.cc/Z0MMwJmX)
 
 # <p align="center"> Lista de requerimientos </p>
 1. **Funcionales: ¿Qué es lo que el diseño debe hacer?**
@@ -49,7 +49,7 @@ Un dispositivo que ayude al paciente a realizar transferencias de la silla de ru
 
 "Composite electrolyte membrane, preparing method and lithium battery," Apr. 2013. Available: https://worldwide.espacenet.com/patent/search/family/047955836/publication/CN103006362A
 
-
+"Control device for an orthosis or prosthesis," Dec. 2014. Available: https://worldwide.espacenet.com/patent/search/family/051985915/publication/US2014358053A1
 
 
 

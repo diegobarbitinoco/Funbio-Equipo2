@@ -10,11 +10,12 @@
 # <p align="center"> Lista de requerimientos </p>
 1. **Funcionales: ¿Qué es lo que el diseño debe hacer?**
 
-   * **Propiciar el transporte independiente**  
-     El dispositivo debe permitir al usuario moverse con la menor asistencia posible, tanto en traslaciones y transferencias, adaptado para dar apoyo según sus posibilidades físicas.
+ 
+   * **Incorporarse**  
+     El dispositivo debe permitir al usuario incorporarse de una posición sentada a la bipedestación sin mucho esfuerzo.
  
    * **Brindar estabilidad**  
-     El dispositivo se debe mantener en su posición durante la transferencia para ayudar a la persona durante las transferencias.
+     El dispositivo debe mantener estabilizada la posición de las rodillas durante el proceso de incorporación.
 
 2. **No Funcionales: ¿Cuáles son las propiedades del diseño?**
 
@@ -22,10 +23,10 @@
      El material seleccionado debe asegurar una larga vida útil y resistencia a los diferentes ambientes a los que va a estar expuesto.
 
    * **Ser cómodo**  
-     El material seleccionado debe resultar cómodo para el paciente, en especial si va a ser un dispositivo de uso prolongado; debe tener en cuenta la integridad de la piel y evitar ocasionar lesiones por presión. Se considera que debe ser ligero, tener superficies antideslizantes, un diseño ergonómico, entre otros.
+     El material seleccionado debe resultar cómodo para el paciente, sobre todo en las zonas de contacto durante la incorporación, evitando lesiones por presión o incomodidad.
 
    * **Brindar seguridad**  
-     La principal función del diseño es garantizar la seguridad del paciente durante las transferencias o aseo personal.
+     El diseño debe garantizar la seguridad del paciente durante el proceso de incorporración.
 
    * **Tener costo accesible**  
      El costo de producción debe propiciar que el precio final del dispositivo resulte económico y accesible para todos los usuarios.
@@ -38,9 +39,7 @@
      
    * **Ser fácil de mantener**  
      Debe ser sencillo de limpiar y mantener, asegurando una larga durabilidad.
-
-   * **Ser portable y adaptable**   
-     El producto debe poder utilizarse en diferentes situaciones y ambientes; ya sea por adaptación o material.
+     
 # <p align="center"> Propuesta de Solución </p>
 Un dispositivo que ayude al paciente a realizar transferencias de la silla de ruedas a otras superficies, como la cama, el baño o la ducha. de manera más fácil y con la menor asistencia posible.
 ## Bibliografías ##

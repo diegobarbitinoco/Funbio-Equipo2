@@ -31,8 +31,15 @@ Ante la necesidad del paciente por realizar la bipedestación con menor esfuerzo
 
 ### Contexto del proyecto:
 
-El proyecto tiene como objetivo principal desarrollar un dispositivo que ayude a un paciente con lesión medular a pararse de manera independiente. Este paciente presenta un nivel motor T1 y requiere apoyo de personas para lograr esta acción. Se considera fundamental diseñar un asiento con un ángulo de 105 grados y un soporte detrás de las piernas con el mismo ángulo, lo que facilitará el levantamiento y mejorará su capacidad para mantenerse de pie. Además, el paciente tiene fuerza en las piernas y ha logrado realizar marcha en tramos cortos, por lo que el dispositivo se inspira en el producto existente, Sara Stedy, para ofrecer una solución que promueva la autonomía y la calidad de vida del paciente.
+El proyecto tiene como objetivo principal desarrollar un dispositivo de bipedestación accesible, inspirado en el TEK RMD M1, que permita a un paciente con lesión medular alcanzar la posición de pie de manera independiente y segura. Este paciente, que presenta un nivel motor T1, ha logrado realizar marcha en tramos cortos, pero todavía requiere apoyo para ponerse de pie por lo que nuestro objetivo es maximizar su autonomía en esta acción y reducir su dependencia de terceros.
 
+El proyecto busca no solo mejorar la funcionalidad del paciente, sino también contribuir a su bienestar emocional ya que al permitirle interactuar con su entorno desde una posición de pie se podrá ir mejorando su calidad de vida y se logrará promover su independencia en actividades diarias. 
+
+Este dispositivo también está diseñado para pacientes que no pueden extender las extremidades, tanto para aquellos que tienen lesiones incompletas o completas y que no tienen ningún grado de fuerza, ya que se logra estabilizar las rodillas y se utiliza una placa en la parte lumbar, junto con un sistema de faja en la parte dorsal que estabiliza el dorso, abdomen y parte de la pelvis. Esto es ideal para pacientes con niveles dorsales medio, alto y bajo, en quienes no se indica la marcha, como aquellos con nivel T1 y T2 que no controlan los músculos del dorso y tronco. En el caso de ellos, pacientes que no pueden sentarse bien, menos podrán pararse, pero con este dispositivo sí lo lograrán, ya que la placa se extenderá desde la pelvis hasta la axila y se usará por períodos controlados de tiempo.
+
+Además, este diseño se está desarrollando con la intención de ser replicable y adaptable a otros pacientes con condiciones similares, lo que refuerza el potencial impacto de esta solución en el campo de la rehabilitación.
+
+El enfoque en este dispositivo no es simplemente proporcionar un soporte, sino desarrollar una herramienta que pueda ajustarse a las capacidades del paciente y permitirle progresar en su rehabilitación de manera gradual, aumentando la fuerza en sus piernas y su control corporal, todo con el menor número de intervenciones externas posible.
 
 ### Objetivos del proyecto: 
 

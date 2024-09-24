@@ -3,8 +3,7 @@
 ## Productos Comerciales ##
 [![Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-4.png](https://i.postimg.cc/dtF7nGSs/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-4.png)](https://postimg.cc/DmCyw4TH)
 # <p align="center"> Patentes </p>
-![imagen](https://i.postimg.cc/W1g52cS0/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-2.png)
-[![Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-5.png](https://i.postimg.cc/s22y2gHC/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-5.png)](https://postimg.cc/YvTTnMwd)
+
 [![Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-6.png](https://i.postimg.cc/15m15zjR/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-6.png)](https://postimg.cc/Z0MMwJmX)
 
 # <p align="center"> Lista de requerimientos </p>
@@ -44,13 +43,10 @@
 Un dispositivo que ayude al paciente a realizar transferencias de la silla de ruedas a otras superficies, como la cama, el baño o la ducha. de manera más fácil y con la menor asistencia posible.
 ## Bibliografías ##
 
-“Knee-joint hinge of standing period control orthosis”. Espacenet. Accedido el 4 de septiembre de 2024. [En línea]. Disponible: https://worldwide.espacenet.com/patent/search/family/047955836/publication/CN103006362A?q=CN103006362A.
-
-"Composite electrolyte membrane, preparing method and lithium battery," Apr. 2013. Available: https://worldwide.espacenet.com/patent/search/family/047955836/publication/CN103006362A
 
 "Control device for an orthosis or prosthesis," Dec. 2014. Available: https://worldwide.espacenet.com/patent/search/family/051985915/publication/US2014358053A1
-
-
+M. Anastasios, "Wheelchair with power-driven omnidirectional mobility," U.S. Patent 10307316B2, May 28, 2019. Available: https://worldwide.espacenet.com/patent/search/family/045932315/publication/US10307316B2
+M. S. Alavi and A. Goudarzi, "Method and device for adaptive polarization mode dispersion compensation," European Patent EP3458009A1, Mar. 27, 2019. [Online]. Available: https://worldwide.espacenet.com/patent/search/family/056894190/publication/EP3458009A1
 
 
 

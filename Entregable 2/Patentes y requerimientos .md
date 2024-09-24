@@ -3,7 +3,8 @@
 ## Productos Comerciales ##
 [![Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-7.png](https://i.postimg.cc/hGGL0gHK/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-7.png)](https://postimg.cc/21PLkpkt)
 # <p align="center"> Patentes </p>
-
+[![Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-8.png](https://i.postimg.cc/Mp9RHNXN/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-8.png)](https://postimg.cc/4YhnF86Q)
+[![Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-9.png](https://i.postimg.cc/SKj9MdMs/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-9.png)](https://postimg.cc/p9byNDkb)
 [![Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-6.png](https://i.postimg.cc/15m15zjR/Gr-fico-Tabla-Comparativa-Problemas-y-Soluciones-T-tulos-Minimalista-Moderno-Sencillo-Azul-6.png)](https://postimg.cc/Z0MMwJmX)
 
 # <p align="center"> Lista de requerimientos </p>

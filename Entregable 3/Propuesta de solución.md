@@ -2,27 +2,39 @@
 
 ## 1. Problemática ##
 
-Contexto:  
-Las lesiones de médula espinal en el Perú revela que el instituto nacional de rehabilitación es la única institución que ofrece programas de rehabilitación integral, siendo cruciales para personas de bajos recursos, quienes representan el 70.8% de los casos. A nivel mundial, más de 15 millones de personas sufren LME , mayormente debido a traumatismos. Estas lesiones conllevan altos costos sociales y económicos, afectando la esperanza de vida y la participación en la economía. En el caso del paciente, presenta una cuadriplejia incompleta con espasticidad severa, debido a una lesión medular cervical baja ocurrida hace mas de cuatro años.
+## Contexto:  
+Las lesiones de la médula espinal, que pueden ser consecuencia de accidentes graves como colisiones de tráfico, caídas desde grandes alturas o incluso algunas enfermedades, son un problema médico complejo que afecta a miles de personas cada año en todo el mundo. Estas lesiones pueden causar daños severos en la función neurológica, afectando áreas como el control motor, la sensibilidad y funciones automáticas del cuerpo, lo que genera una pérdida de independencia significativa en quienes las padecen. En muchos casos, estas personas experimentan dificultades en su capacidad para respirar por sí mismas o para controlar funciones básicas como la micción y la defecación. 
+La ingeniería biomédica cumple un rol importante en la creación de dispositivos y técnicas que no solo ayudan a acelerar los tratamientos, sino que también optimizan los resultados a largo plazo. Estos incluyen sistemas que facilitan la rehabilitación motora y sensorial, así como tecnologías que permiten a los pacientes recuperar el mayor grado de funcionalidad corporal posible.También abarca tanto aspectos físicos, como la movilidad y la fuerza muscular, como aspectos biológicos, como la reparación neural y el control autonómico. Además, estas innovaciones contribuyen a mejorar la calidad de vida del paciente, permitiéndole reintegrarse de manera más efectiva a sus actividades cotidianas y sociales, reduciendo su dependencia de terceros y promoviendo una mayor autonomía.
 
-Definición del Problema:   
-El individuo enfrenta dificultades al momento de realizar las tranferencias, puede realizarlas con algo de fuerza de los mienbros inferiores pero sigue necesitando asistencia de otra persona. 
+## Definición del Problema:   
+Encontrar un dispositivo de asistencia tecnológica/biomédica para entrenar la fuerza muscular de los miembros inferiores del paciente de manera progresiva, considerando su nivel de sensibilidad C4 y los puntos en donde debe haber apoyo para brindar equilibrio: rodillas, pelvis. 
 
-Impacto:   
-La lesión medular afecta al paciente con paraplejia incompleta, limitando sus movilidad y sensibilidad en las extremidades inferiores, lo que dificulta sus actividades diarias e independencia. Sufre espasticidad severa, hipertrofia muscular y reflejos exaltados, lo que agrava su estado físico. Además, enfrenta riesgos de complicaciones secundarias como úlceras por presión. Estas complicaciones no le permiten ser independiente del todo y limitan su capacidad para realizar transferencias.
+## Impacto:   
+El paciente con lesión medular a nivel C4-T1 presenta una paraplejia incompleta que compromete la movilidad en las extremidades superiores e inferiores, acompañada a atrofia muscular moderada. Esta condición se ve acentuada por una espasticidad severa, que se manifiesta en un aumento del tono muscular y una marcada resistencia al movimiento, lo que limita significativamente las acciones voluntarias.Además, se han detectado alteraciones en la sensibilidad, con niveles diferentes entre el lado derecho e izquierdo, lo que afecta la percepción sensorial del paciente. A pesar de mantener un grado de independencia en actividades básicas de la vida diaria, el paciente experimenta dificultades importantes en tareas como las transferencias, lo que repercute negativamente en su calidad de vida y funcionalidad diaria.
 
 ## 2. Propuesta de solución ##
+### Descripción de la solución:
+Ante la necesidad del paciente por realizar la bipedestación con menor esfuerzo y estar en una posición que le permita un mejor alcance al soporte con el que se dará el impulso para pararse, el proyecto consiste de un soporte basado en el Sara Stedy con un asiento de inclinación mayor a 90°.
+### Características del prototipo:
+  - Entrenamiento de fuerza
+  - Banda pélvica para asegurar estabilidad
+  - Asegurar la rodilla 
+### Beneficios:
+  - Facilita el alcance del paciente al soporte que le ayudará a darse el impulso para realizar la bipedestación.
+  - Incluye un soporte en las rodillas para estabilizar al paciente al momento de realizar la bipedestación
+  - El soporte de extremidades superiores brinda mayor agarre y soporte.
 
+### Viabilidad técnica:
 
 
 ## 3. Coherencia ##
 
-Contexto del proyecto:
+### Contexto del proyecto:
 
-* En la actualidad existen mejoras en la tecnología de asistencia para los pacientes con lesiones medulares, aunque muchas de las soluciones actuales no proporcionan el soporte necesario para prevenir caídas o manejar cambios repentinos en la postura. Las órtesis tradicionales a veces resultan ser rígidas y limitadas en su capacidad para adaptarse a las necesidades cambiantes de los pacientes durante la marcha, es necesario tener una alerta temprana para los pacientes en riesgo de caída.   
-* Poder combinar la flexibilidad de los materiales de robótica blanda con la tecnología de sensores para proporcionar un soporte ajustable y una detección precisa de riesgos, por lo que implementar materiales de robótica blanda para crear una estructura que se ajuste cómodamente al cuerpo del paciente y al añadirle un módulo de sonido que emita una alerta cuando se detecte un riesgo, aumentaría la ayuda proporcionada al paciente a reaccionar a tiempo y prevenir lesiones.
+El proyecto tiene como objetivo principal desarrollar un dispositivo que ayude a un paciente con lesión medular a pararse de manera independiente. Este paciente presenta un nivel motor T1 y requiere apoyo de personas para lograr esta acción. Se considera fundamental diseñar un asiento con un ángulo de 105 grados y un soporte detrás de las piernas con el mismo ángulo, lo que facilitará el levantamiento y mejorará su capacidad para mantenerse de pie. Además, el paciente tiene fuerza en las piernas y ha logrado realizar marcha en tramos cortos, por lo que el dispositivo se inspira en el producto existente, Sara Stedy, para ofrecer una solución que promueva la autonomía y la calidad de vida del paciente.
 
-Objetivos del proyecto: 
+
+### Objetivos del proyecto: 
 
 - El paciente realice bipedestación de forma segura
 - El paciente use la fuerza de miembros inferiores para realizar las transferencias de manera más cómoda y ganando más independencia

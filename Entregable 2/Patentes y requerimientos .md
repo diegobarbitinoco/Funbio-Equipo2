@@ -15,7 +15,7 @@
      El dispositivo debe permitir al usuario incorporarse de una posición sentada a la bipedestación sin mucho esfuerzo.
  
    * **Brindar estabilidad**  
-     El dispositivo debe mantener estabilizada la posición de las rodillas durante el proceso de incorporación.
+     El dispositivo debe mantener estabilizada la posición de las rodillas, pelvis y parte baja de la espalda durante el proceso de incorporación.
 
 2. **No Funcionales: ¿Cuáles son las propiedades del diseño?**
 
@@ -29,7 +29,7 @@
      El diseño debe garantizar la seguridad del paciente durante el proceso de incorporración.
 
    * **Tener costo accesible**  
-     El costo de producción debe propiciar que el precio final del dispositivo resulte económico y accesible para todos los usuarios.
+     El costo de producción debe propiciar que el precio final del dispositivo resulte económico y accesible para el mayor grupo de usuarios.
      
    * **Permitir uso independiente**  
      El paciente debe ser capaz de utilizar el producto con la menor asistencia posible.
@@ -41,7 +41,7 @@
      Debe ser sencillo de limpiar y mantener, asegurando una larga durabilidad.
      
 # <p align="center"> Propuesta de Solución </p>
-Un dispositivo que ayude al paciente a realizar transferencias de la silla de ruedas a otras superficies, como la cama, el baño o la ducha. de manera más fácil y con la menor asistencia posible.
+Un dispositivo que ayude al paciente a incorporarse de una posición sentada a parada de manera completamente indeprendiente, con seguridad y comodidad.
 ## Bibliografías ##
 
 

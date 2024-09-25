@@ -54,6 +54,10 @@ El dispositivo elegido ofrece una solución superior en términos de comodidad, 
 ### Alineación con el problema:
 El dispositivo propuesto busca solucionar este problema proporcionando una herramienta que asista en la bipedestación. Gracias a su diseño que incluye correas ajustables, soportes en la pelvis y rodillas, así como sensores para monitorear el movimiento, el paciente podrá entrenar su fuerza muscular de manera progresiva y segura. Esto no solo les brindará mayor estabilidad y autonomía, sino que contribuirá significativamente a su rehabilitación y reintegración social, mejorando su calidad de vida.
 ## 4. Resumen ##    
+Aquellos con lesiones a nivel C4-T1 sufren de paraplejia incompleta, atrofia muscular y espasticidad, lo que les impide realizar actividades básicas como ponerse de pie sin asistencia. Estas restricciones reducen su calidad de vida y aumentan su dependencia de terceros.
+
+
+Para abordar esta problemática, se ha diseñado un dispositivo de bipedestación que permite al paciente levantarse de manera autónoma y segura. El dispositivo cuenta con correas ajustables y soportes en las rodillas y la pelvis, brindando estabilidad durante el proceso. Además, integra tecnología avanzada como sensores electromiográficos y actuadores eléctricos ligeros, que sincronizan los movimientos del usuario y facilitan el entrenamiento progresivo de la fuerza muscular. Esta solución no solo mejora la movilidad, sino que contribuye a la rehabilitación integral y a la reintegración del paciente en sus actividades cotidianas, promoviendo su independencia.
 
 
 

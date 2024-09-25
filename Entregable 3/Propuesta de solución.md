@@ -25,7 +25,10 @@ Ante la necesidad del paciente por realizar la bipedestación con menor esfuerzo
   - El soporte de extremidades superiores brinda mayor agarre y soporte.
 
 ### Viabilidad técnica:
+Nuestro dispositivo es viable, pero requiere una integración compleja de recursos, tecnología y conocimientos. Para su desarrollo, se necesitan materiales ligeros y resistentes como fibra de carbono, titanio o aleaciones de aluminio, que permitan un diseño ergonómico y portátil. Además, es importante la presencia de actuadores eléctricos ligeros para facilitar el movimiento asistido, junto con sensores inerciales (miden la aceleración y orientación del cuerpo) que monitoreen la postura y el movimiento del usuario. 
 
+
+El control del prototipo requiere una plataforma electrónica y software que procese los datos de los sensores y controla los actuadores en tiempo real. En estos sistemas se incluyen las señales electromiográficas que detectan las señales eléctricas generadas por los músculos cuando se contraen y las envían al dispositivo para sincronizarlas con el movimiento del usuario. Asimismo, la fuente de alimentación debe incluir baterías de iones de litio para asegurar autonomía sin añadir demasiado peso.
 
 ## 3. Coherencia ##
 
@@ -33,19 +36,23 @@ Ante la necesidad del paciente por realizar la bipedestación con menor esfuerzo
 
 El proyecto tiene como objetivo principal desarrollar un dispositivo de bipedestación accesible, inspirado en el TEK RMD M1, que permita a un paciente con lesión medular alcanzar la posición de pie de manera independiente y segura. Este paciente, que presenta un nivel motor T1, ha logrado realizar marcha en tramos cortos, pero todavía requiere apoyo para ponerse de pie por lo que nuestro objetivo es maximizar su autonomía en esta acción y reducir su dependencia de terceros.
 
+
 El proyecto busca no solo mejorar la funcionalidad del paciente, sino también contribuir a su bienestar emocional ya que al permitirle interactuar con su entorno desde una posición de pie se podrá ir mejorando su calidad de vida y se logrará promover su independencia en actividades diarias. 
 
-Este dispositivo también está diseñado para pacientes que no pueden extender las extremidades, tanto para aquellos que tienen lesiones incompletas o completas y que no tienen ningún grado de fuerza, ya que se logra estabilizar las rodillas y se utiliza una placa en la parte lumbar, junto con un sistema de faja en la parte dorsal que estabiliza el dorso, abdomen y parte de la pelvis. Esto es ideal para pacientes con niveles dorsales medio, alto y bajo, en quienes no se indica la marcha, como aquellos con nivel T1 y T2 que no controlan los músculos del dorso y tronco. En el caso de ellos, pacientes que no pueden sentarse bien, menos podrán pararse, pero con este dispositivo sí lo lograrán, ya que la placa se extenderá desde la pelvis hasta la axila y se usará por períodos controlados de tiempo.
-
-Además, este diseño se está desarrollando con la intención de ser replicable y adaptable a otros pacientes con condiciones similares, lo que refuerza el potencial impacto de esta solución en el campo de la rehabilitación.
 
 El enfoque en este dispositivo no es simplemente proporcionar un soporte, sino desarrollar una herramienta que pueda ajustarse a las capacidades del paciente y permitirle progresar en su rehabilitación de manera gradual, aumentando la fuerza en sus piernas y su control corporal, todo con el menor número de intervenciones externas posible.
+
 
 ### Objetivos del proyecto: 
 
 - El paciente realice bipedestación de forma segura
-- El paciente use la fuerza de miembros inferiores para realizar las transferencias de manera más cómoda y ganando más independencia
+- El paciente use la fuerza de miembros inferiores para realizar las transferencias de manera más cómoda y ganando más independencia.
+  
+### Justificación del prototipo: 
+El dispositivo elegido ofrece una solución superior en términos de comodidad, ya que sus materiales ligeros y suaves reducen las probabilidad de lesiones por presión del usuario durante su uso prolongado. Además, es adaptable a las condiciones físicas del usuario, gracias a sus sensores y señales electromiográficas, que detectan con precisión los movimientos y los sincronizan de manera natural. A esto se suman su facilidad de uso, portabilidad y accesibilidad económica, lo que lo convierte en una opción más ventajosa en comparación con otras soluciones previas.
 
+### Alineación con el problema:
+El dispositivo propuesto busca solucionar este problema proporcionando una herramienta que asista en la bipedestación. Gracias a su diseño que incluye correas ajustables, soportes en la pelvis y rodillas, así como sensores para monitorear el movimiento, el paciente podrá entrenar su fuerza muscular de manera progresiva y segura. Esto no solo les brindará mayor estabilidad y autonomía, sino que contribuirá significativamente a su rehabilitación y reintegración social, mejorando su calidad de vida.
 ## 4. Resumen ##    
 
 

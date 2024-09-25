@@ -7,22 +7,41 @@ Las lesiones de la médula espinal, que pueden ser consecuencia de accidentes gr
 La ingeniería biomédica cumple un rol importante en la creación de dispositivos y técnicas que no solo ayudan a acelerar los tratamientos, sino que también optimizan los resultados a largo plazo. Estos incluyen sistemas que facilitan la rehabilitación motora y sensorial, así como tecnologías que permiten a los pacientes recuperar el mayor grado de funcionalidad corporal posible.También abarca tanto aspectos físicos, como la movilidad y la fuerza muscular, como aspectos biológicos, como la reparación neural y el control autonómico. Además, estas innovaciones contribuyen a mejorar la calidad de vida del paciente, permitiéndole reintegrarse de manera más efectiva a sus actividades cotidianas y sociales, reduciendo su dependencia de terceros y promoviendo una mayor autonomía.
 
 ## Definición del Problema:   
-Encontrar un dispositivo de asistencia tecnológica/biomédica para entrenar la fuerza muscular de los miembros inferiores del paciente de manera progresiva, considerando su nivel de sensibilidad C4 y los puntos en donde debe haber apoyo para brindar equilibrio: rodillas, pelvis. 
+Desarrollar un dispositivo de asistencia tecnológica/biomédica para que el paciente logré la bipedestación de manera más independiente, proporcionando un impulso que facilite la posición de pie, otro factor importante esa que se deberá considerar su nivel de sensibilidad C4 y los puntos en donde debe haber apoyo necesario para brindar equilibrio: rodillas, pelvis y zona lumbar. 
 
 ## Impacto:   
 El paciente con lesión medular a nivel C4-T1 presenta una paraplejia incompleta que compromete la movilidad en las extremidades superiores e inferiores, acompañada a atrofia muscular moderada. Esta condición se ve acentuada por una espasticidad severa, que se manifiesta en un aumento del tono muscular y una marcada resistencia al movimiento, lo que limita significativamente las acciones voluntarias.Además, se han detectado alteraciones en la sensibilidad, con niveles diferentes entre el lado derecho e izquierdo, lo que afecta la percepción sensorial del paciente. A pesar de mantener un grado de independencia en actividades básicas de la vida diaria, el paciente experimenta dificultades importantes en tareas como las transferencias, lo que repercute negativamente en su calidad de vida y funcionalidad diaria.
 
 ## 2. Propuesta de solución ##
 ### Descripción de la solución:
-Ante la necesidad del paciente por realizar la bipedestación con menor esfuerzo y estar en una posición que le permita un mejor alcance al soporte con el que se dará el impulso para pararse, el proyecto consiste de un soporte basado en el Sara Stedy con un asiento de inclinación mayor a 90°.
+Ante la necesidad del paciente de pasar de una posición sentada a parada de manera independiente y más cómoda, el dispositivo propuesto le permitiría realizar esta incorporación mediante un elevador eléctrico bipedestador. Con este dispositivo el paciente, con un pequeño entrenamiento en el funcionamiento del dispositivo, podría incorporarse de manera totalmente independiente y segura, gracias a los apoyos en rodillas y espalda baja y pelvis y sobre todo la posibilidad de ajustar la inclinación del apoyo para levantarse.
+
 ### Características del prototipo:
-  - Entrenamiento de fuerza
-  - Banda pélvica para asegurar estabilidad
-  - Asegurar la rodilla 
+  - Proceso de incorporarse a control del usuario:
+Por medio de correas ajustables, controladas por un monitor, situado en la parte superior y en medio de los soportes para los brazos, que permita al usuario controlar la rapidez y el ajuste final de un cojín ancho de seguridad.
+
+  - Mayor rango de movimiento entre pose sentada y parada.
+Debido a que el nivel de elevación desde la pose sentada es controlable por el paciente, esta característica puede ser aprovechada para “agacharse” a alcanzar estantes o superficies que estén muy elevadas para alguien en silla de ruedas y muy bajas para alguien que ya tomó la pose parada.
+
+  - Seguridad en puntos clave
+El cojín de seguridad que se engancha a las correas ajustables tendría las dimensiones adecuadas para brindar seguridad, estabilidad y soporte en la zona de la espalda baja y la pelvis. Otro punto de apoyo importante se situaría a nivel de las rodillas, a modo de evitar caídas y darle mayor confianza al paciente para pararse.
+
+  - Puntos de apoyo cómodos
+El material utilizado para el cojín y los soportes para la rodilla estarían hechos de materiales suaves que prevengan ocasionar lesiones al usuario.
+
+  - Libertad de extremidades superiores
+El paciente al estar asegurado en los puntos clave anteriormente mencionados, no necesitaría agarrarse todo el tiempo de los soportes para las extremidades superiores, dándole libertad de utilizarlas en otras actividades al mismo tiempo que sigue en pie.
+Seguridad al realizar marcha
+Este dispositivo permitiría al usuario realizar la marcha una vez incorporado, reemplazando el andador convencional con un soporte que le de mayor seguridad y libertad de movimiento.
+
+
 ### Beneficios:
-  - Facilita el alcance del paciente al soporte que le ayudará a darse el impulso para realizar la bipedestación.
-  - Incluye un soporte en las rodillas para estabilizar al paciente al momento de realizar la bipedestación
-  - El soporte de extremidades superiores brinda mayor agarre y soporte.
+Uno de los principales beneficios que el dispositivo le brinda a los pacientes es el de incorporarse (de una pose sentada a una parada) de manera totalmente independiente y segura; además de permitirle libertad de las extremidades superiores una vez tomada la bipedestación, a diferencia de los dispositivos de soporte convencionales como el andador, que requieren un agarre constante a estos; o incluso, otros dispositivos como órtesis para que el paciente pueda pararse de manera segura, especialmente cuando se carece de fuerza en las extremidades inferiores.
+
+Adicionalmente, el dispositivo presentado beneficia al paciente con puntos de apoyo claves para una  bipedestación segura, estable y cómoda, sobre todo para evitar lesiones por presión. Otro beneficio, sería el de facilitar al paciente el alcance al soporte que le ayudará a pararse, mediante unos botones de fácil acceso en los puntos de agarre del dispositivo.
+
+Finalmente, el beneficio adicional sería el de poder “agacharse” para alcanzar superficies menos elevadas desde la posición de bipedestación.
+
 
 ### Viabilidad técnica:
 Nuestro dispositivo es viable, pero requiere una integración compleja de recursos, tecnología y conocimientos. Para su desarrollo, se necesitan materiales ligeros y resistentes como fibra de carbono, titanio o aleaciones de aluminio, que permitan un diseño ergonómico y portátil. Además, es importante la presencia de actuadores eléctricos ligeros para facilitar el movimiento asistido, junto con sensores inerciales (miden la aceleración y orientación del cuerpo) que monitoreen la postura y el movimiento del usuario. 
@@ -45,8 +64,10 @@ El enfoque en este dispositivo no es simplemente proporcionar un soporte, sino d
 
 ### Objetivos del proyecto: 
 
-- El paciente realice bipedestación de forma segura
-- El paciente use la fuerza de miembros inferiores para realizar las transferencias de manera más cómoda y ganando más independencia.
+- Permitir al  paciente realizar la bipedestación de forma segura e independiente.
+- El paciente se sienta cómodo al momento de usar el dispositivo.
+- Conceder la posibilidad de que el paciente controle todo el proceso de incorporación.
+
   
 ### Justificación del prototipo: 
 El dispositivo elegido ofrece una solución superior en términos de comodidad, ya que sus materiales ligeros y suaves reducen las probabilidad de lesiones por presión del usuario durante su uso prolongado. Además, es adaptable a las condiciones físicas del usuario, gracias a sus sensores y señales electromiográficas, que detectan con precisión los movimientos y los sincronizan de manera natural. A esto se suman su facilidad de uso, portabilidad y accesibilidad económica, lo que lo convierte en una opción más ventajosa en comparación con otras soluciones previas.

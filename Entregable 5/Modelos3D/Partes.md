@@ -1,2 +1,6 @@
-
-
+- Soporte del aruino https://skfb.ly/prEqI
+- Tapa de soporte del arduino https://skfb.ly/prEr9
+- Monitor https://skfb.ly/prEro
+- Brazo Interno https://skfb.ly/prErr
+- Brazo 2 https://skfb.ly/prErs
+- Base https://skfb.ly/prEru             

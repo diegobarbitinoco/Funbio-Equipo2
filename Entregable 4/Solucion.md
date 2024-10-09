@@ -5,7 +5,7 @@
 # <p align="center"> Esquema de funciones </p>  
 [![Captura-de-pantalla-2024-09-24-a-la-s-11-25-22-p-m.png](https://i.postimg.cc/1XbgZcJh/Captura-de-pantalla-2024-09-24-a-la-s-11-25-22-p-m.png)](https://postimg.cc/9wtXd96J)
 # <p align="center"> Matriz morfológica </p>
-[![Captura-de-pantalla-2024-09-24-a-la-s-11-56-14-p-m.png](https://i.postimg.cc/W4zYSC51/Captura-de-pantalla-2024-09-24-a-la-s-11-56-14-p-m.png)](https://postimg.cc/qtfGvbfP)
+[![Captura-de-pantalla-2024-09-24-a-la-s-11-56-14-p-m.png](file:///C:/Users/Ignacio%20Barbar%C3%A1n/Downloads/Captura%20de%20pantalla%202024-10-08%20223509.png)
 # <p align="center"> Tabla de valoración </p>
 [![Captura-de-pantalla-2024-09-24-a-la-s-11-56-43-p-m.png](https://i.postimg.cc/mkPbsmZL/Captura-de-pantalla-2024-09-24-a-la-s-11-56-43-p-m.png)](https://postimg.cc/vxdR7L6k)
 # <p align="center"> Conclusión de su CS elegido </p>

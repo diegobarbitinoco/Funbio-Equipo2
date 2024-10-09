@@ -6,6 +6,7 @@
 [![Captura-de-pantalla-2024-09-24-a-la-s-11-25-22-p-m.png](https://i.postimg.cc/1XbgZcJh/Captura-de-pantalla-2024-09-24-a-la-s-11-25-22-p-m.png)](https://postimg.cc/9wtXd96J)
 # <p align="center"> Matriz morfológica </p>
 [![Imagen-de-Whats-App-2024-10-08-a-las-22-45-14-bdad8e48.jpg](https://i.postimg.cc/W3SdxT0L/Imagen-de-Whats-App-2024-10-08-a-las-22-45-14-bdad8e48.jpg)](https://postimg.cc/WFFpkR9X)
+[![Presentaci-n-Proyecto-Creativo-Doodle-Violeta-y-Amarillo-1.png](https://i.postimg.cc/T3837pB5/Presentaci-n-Proyecto-Creativo-Doodle-Violeta-y-Amarillo-1.png)](https://postimg.cc/2VwY38kC)
 # <p align="center"> Tabla de valoración </p>
 [![Captura-de-pantalla-2024-09-24-a-la-s-11-56-43-p-m.png](https://i.postimg.cc/mkPbsmZL/Captura-de-pantalla-2024-09-24-a-la-s-11-56-43-p-m.png)](https://postimg.cc/vxdR7L6k)
 # <p align="center"> Conclusión de su CS elegido </p>

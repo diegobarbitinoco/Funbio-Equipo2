@@ -47,7 +47,7 @@ Finalmente, el beneficio adicional sería el de poder “agacharse” para alcan
 Nuestro dispositivo es viable, pero requiere una integración compleja de recursos, tecnología y conocimientos. Para su desarrollo, se necesitan materiales ligeros y resistentes como fibra de carbono, titanio o aleaciones de aluminio, que permitan un diseño ergonómico y portátil. Además, es importante la presencia de actuadores eléctricos ligeros para facilitar el movimiento asistido, junto con sensores inerciales (miden la aceleración y orientación del cuerpo) que monitoreen la postura y el movimiento del usuario. 
 
 
-El control del prototipo requiere una plataforma electrónica y software que procese los datos de los sensores y controla los actuadores en tiempo real. En estos sistemas se incluyen las señales electromiográficas que detectan las señales eléctricas generadas por los músculos cuando se contraen y las envían al dispositivo para sincronizarlas con el movimiento del usuario. Asimismo, la fuente de alimentación debe incluir baterías de iones de litio para asegurar autonomía sin añadir demasiado peso.
+El control del prototipo requiere una plataforma electrónica y software que procese los datos de los sensores y controla los actuadores en tiempo real. En estos sistemas se incluyen sensores de presión que tendrán los parámetros necesarios para no lastimar al paciente mediante el ajuste, estos datos se envían al dispositivo para sincronizarlas con el movimiento del usuario. Asimismo, la fuente de alimentación debe incluir baterías de iones de litio para asegurar autonomía sin añadir demasiado peso.
 
 ## 3. Coherencia ##
 

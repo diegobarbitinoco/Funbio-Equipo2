@@ -86,12 +86,16 @@
       
       
 * Actuador eléctrico:
+ [![funbio1.jpg](https://i.postimg.cc/CKQrBGCD/funbio1.jpg)](https://postimg.cc/PL1Q08Rr)
+  
 
 * Monitor:
+[![funbio6.png](https://i.postimg.cc/cJyrsj28/funbio6.png)](https://postimg.cc/DS626C22)
 
                                                                                   
 
 * Base:
+[![funbio7.png](https://i.postimg.cc/pX5WpCDQ/funbio7.png)](https://postimg.cc/BXs9zx7t)
 
 
   
@@ -101,6 +105,7 @@
 
 
 * Brazo:  
+  [![funbio8.png](https://i.postimg.cc/QtnDMKCn/funbio8.png)](https://postimg.cc/tZPwSThh)
     
     
     

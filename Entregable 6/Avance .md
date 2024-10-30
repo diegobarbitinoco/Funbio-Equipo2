@@ -74,15 +74,13 @@
 [![funbio2.jpg](https://i.postimg.cc/pXwSkY3B/funbio2.jpg)](https://postimg.cc/vcvXZ9Y1)
 ## 3. Impresión 3D: ##  
 # <p align="center"> Actuador eléctrico</p>
-
-[![Captura-de-pantalla-2024-10-29-235418.png](https://i.postimg.cc/YSk9yyZ8/Captura-de-pantalla-2024-10-29-235418.png)](https://postimg.cc/yDQsDnVS)
-
+[![Imagen-de-Whats-App-2024-10-29-a-las-16-14-08-513046b6.jpg](https://i.postimg.cc/fbLLN0W0/Imagen-de-Whats-App-2024-10-29-a-las-16-14-08-513046b6.jpg)](https://postimg.cc/18kP0Xq9)
 # <p align="center"> Monitor </p>
 [![Captura-de-pantalla-2024-10-29-235609.png](https://i.postimg.cc/vHVZ8sd3/Captura-de-pantalla-2024-10-29-235609.png)](https://postimg.cc/3d3T9zNv)
 # <p align="center"> Base </p>
-[![Captura-de-pantalla-2024-10-29-235631.png](https://i.postimg.cc/K8hvRHGF/Captura-de-pantalla-2024-10-29-235631.png)](https://postimg.cc/qzQdFQ6Z)
+[![Captura-de-pantalla-2024-10-30-001553.jpg](https://i.postimg.cc/x8SnckQ5/Captura-de-pantalla-2024-10-30-001553.jpg)](https://postimg.cc/bDLK5wsS)
 # <p align="center"> Brazo </p>
-[![Captura-de-pantalla-2024-10-29-235647.png](https://i.postimg.cc/Jz37J50X/Captura-de-pantalla-2024-10-29-235647.png)](https://postimg.cc/dh1Kcd8Q)
+[![Captura-de-pantalla-2024-10-30-002056.jpg](https://i.postimg.cc/5Ngb2NR5/Captura-de-pantalla-2024-10-30-002056.jpg)](https://postimg.cc/WhdQ9jjt)
 # <p align="center"> Ensamblado </p>
 [![Captura-de-pantalla-2024-10-29-235704.png](https://i.postimg.cc/9fJWgXGF/Captura-de-pantalla-2024-10-29-235704.png)](https://postimg.cc/kVR3Bm1k)
 

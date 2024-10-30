@@ -165,6 +165,10 @@
                                                                                   
 
 * Base:
+
+
+
+  
 [![funbio7.png](https://i.postimg.cc/pX5WpCDQ/funbio7.png)](https://postimg.cc/BXs9zx7t)
 
 
@@ -185,7 +189,10 @@
   
 
 
-* Brazo:  
+* Brazo:
+
+
+
   [![funbio8.png](https://i.postimg.cc/QtnDMKCn/funbio8.png)](https://postimg.cc/tZPwSThh)
     
 

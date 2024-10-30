@@ -1,8 +1,9 @@
-Entregable 6
+*Entregable 6*
 
 * Hardware Electrónico:  
   * Esquema del Circuito Electrónico:  
-    ![][image1]  
+   [![funbio2.jpg](https://i.postimg.cc/pXwSkY3B/funbio2.jpg)](https://postimg.cc/vcvXZ9Y1)
+
   * Ejecución del Código:  
       
       

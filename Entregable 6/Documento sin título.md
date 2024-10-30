@@ -2,7 +2,11 @@
 
 * Hardware Electrónico:  
   * Esquema del Circuito Electrónico:  
-   [![funbio2.jpg](https://i.postimg.cc/pXwSkY3B/funbio2.jpg)](https://postimg.cc/vcvXZ9Y1)
+  [![funbio3.png](https://i.postimg.cc/4N011fHk/funbio3.png)](https://postimg.cc/mtQMLGS8)
+
+
+
+
 
   * Ejecución del Código:  
       
@@ -71,10 +75,22 @@
       
       delay(100); // Pequeña pausa para estabilidad}
 
-    
+
+
+
+
+
+
 
   * Avance del prototipado Electrónico:  
-    ![][image2]
+ [![funbio2.jpg](https://i.postimg.cc/pXwSkY3B/funbio2.jpg)](https://postimg.cc/vcvXZ9Y1)
+
+
+
+
+
+
+
 
     
 
@@ -82,15 +98,37 @@
   * Avance de Modelos a imprimir:
 
   * Correcciones del Modelado digital(Del HITO 1):  
+
+
+
+
+
       
       
       
 * Actuador eléctrico:
  [![funbio1.jpg](https://i.postimg.cc/CKQrBGCD/funbio1.jpg)](https://postimg.cc/PL1Q08Rr)
+
+
+
+
+
+
+
+
+
+
   
 
 * Monitor:
 [![funbio6.png](https://i.postimg.cc/cJyrsj28/funbio6.png)](https://postimg.cc/DS626C22)
+
+
+
+
+
+
+
 
                                                                                   
 
@@ -107,6 +145,18 @@
 * Brazo:  
   [![funbio8.png](https://i.postimg.cc/QtnDMKCn/funbio8.png)](https://postimg.cc/tZPwSThh)
     
+
+
+
+
+
+
+
+
+
+
+
+
     
     
     
@@ -157,8 +207,7 @@
 
 
   
-
-  ![][image3]
+[![funbio5.png](https://i.postimg.cc/Jn7JLvH5/funbio5.png)](https://postimg.cc/5HGj5P3X)
 
 
   

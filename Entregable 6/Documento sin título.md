@@ -1,3 +1,4 @@
+
 *Entregable 6*
 
 * Hardware Electrónico:  
@@ -103,11 +104,26 @@
 
 
 
+
+
       
       
       
 * Actuador eléctrico:
  [![funbio1.jpg](https://i.postimg.cc/CKQrBGCD/funbio1.jpg)](https://postimg.cc/PL1Q08Rr)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -130,6 +146,18 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
                                                                                   
 
 * Base:
@@ -139,12 +167,28 @@
   
 
 
+
+
+
+
+
+
+
+
+
+
+
   
 
 
 * Brazo:  
   [![funbio8.png](https://i.postimg.cc/QtnDMKCn/funbio8.png)](https://postimg.cc/tZPwSThh)
     
+
+
+
+
+
 
 
 

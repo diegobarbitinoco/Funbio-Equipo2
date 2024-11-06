@@ -3,6 +3,7 @@
 # 2. Manofactura Digital #
 [![Captura-de-pantalla-2024-11-05-234452.jpg](https://i.postimg.cc/NGCTTvXr/Captura-de-pantalla-2024-11-05-234452.jpg)](https://postimg.cc/fkXJnFBw)
 ## Corte Laser
+[![Captura-de-pantalla-2024-11-06-001146.jpg](https://i.postimg.cc/GtVhhCpW/Captura-de-pantalla-2024-11-06-001146.jpg)](https://postimg.cc/LgkMNGLD)
 [![Captura-de-pantalla-2024-11-05-235110.jpg](https://i.postimg.cc/Px0QhGTc/Captura-de-pantalla-2024-11-05-235110.jpg)](https://postimg.cc/Hc4y4hJ4)
 [![Captura-de-pantalla-2024-11-05-235147.jpg](https://i.postimg.cc/dVS7g2qN/Captura-de-pantalla-2024-11-05-235147.jpg)](https://postimg.cc/5XLNCFQ8)
 [![Captura-de-pantalla-2024-11-05-235216.jpg](https://i.postimg.cc/ZRjzDcmC/Captura-de-pantalla-2024-11-05-235216.jpg)](https://postimg.cc/N9ynKR5c)

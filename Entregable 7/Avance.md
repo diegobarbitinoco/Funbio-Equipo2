@@ -14,3 +14,6 @@ Los mecanismos que quedarían por definir son el lugar y carcasa para los servom
 - Al evaluar las medidas del monitor se determinó que debíamos modificarlas para incluir dentro de él la carcasa de los componentes y una conexión más segura con el apoyo del torso.
 - Los problemas más destacables del desarrollo del proyecto tienen que ver con la cantidad de componentes y manufactura necesarios, el acoplamiento de los mecanismos al diseño y modelado 3D, cuidando que las medidas sean las adecuadas, y la integración de los componentes electrónicos a sus respectivos lugares dentro del cuerpo físico del dispositivo. Además, debido a la cantidad de componentes electrónicos aumenta la cantidad de programación necesaria para que el dispositivo tenga todas las funciones que se planearon.
 Ante esto, el trabajo se está organizando en una página de notion para repartir las tareas e indicar el avance de cada parte, así como organizar los pasos necesarios para lograr cada objetivo dentro de la construcción del dispositivo.
+
+## Solicitud de Impresión ##
+[![Imagen-de-Whats-App-2024-11-06-a-las-00-08-03-200f0455.jpg](https://i.postimg.cc/LXvJSwLS/Imagen-de-Whats-App-2024-11-06-a-las-00-08-03-200f0455.jpg)](https://postimg.cc/bDDyH6mV)

@@ -46,3 +46,60 @@
 
     delay(50); // Pausa para estabilidad
     }
+## Codigo para Leds 5mm - FSR402 (Cambio de presión) ##
+     // Pines para los LEDs
+    const int ledRojo = 8;
+    const int ledAmarillo = 9;
+    const int ledVerde = 10;
+
+    // Pin del sensor de presión
+    const int sensorPresion = A0;
+
+    // Umbrales de presión (ajustar según el rango del FR402)
+    const int umbralRojo = 50;    // Presión baja
+    const int umbralAmarillo = 100; // Presión media
+    const int umbralVerde = 150;   // Presión alta
+
+    void setup() {
+      // Configurar pines de los LEDs como salida
+      pinMode(ledRojo, OUTPUT);
+      pinMode(ledAmarillo, OUTPUT);
+      pinMode(ledVerde, OUTPUT);
+
+      // Iniciar comunicación serial para depuración
+      Serial.begin(9600);
+    }
+
+    void loop() {
+      // Leer el valor del sensor de presión
+      int presion = analogRead(sensorPresion);
+      Serial.print("Presión: ");
+      Serial.println(presion);
+
+      // Encender LEDs según los niveles de presión
+      if (presion < umbralRojo) {
+    encenderLed(ledRojo);       // Baja presión → LED rojo
+      } else if (presion > umbralRojo && presion < umbralAmarillo) {
+    encenderLed(ledAmarillo);   // Media presión → LED amarillo
+      } else if (presion > umbralAmarillo) {
+    encenderLed(ledVerde);      // Alta presión → LED verde
+      } else {
+    apagarLeds();               // Apagar LEDs si no se cumple ningún umbral
+      }
+
+      delay(100); // Pequeña pausa para estabilidad
+    }
+
+    // Función para encender un LED y apagar los demás
+    void encenderLed(int led) {
+      digitalWrite(ledRojo, led == ledRojo ? HIGH : LOW);
+      digitalWrite(ledAmarillo, led == ledAmarillo ? HIGH : LOW);
+      digitalWrite(ledVerde, led == ledVerde ? HIGH : LOW);
+    }
+
+    // Función para apagar todos los LEDs
+    void apagarLeds() {
+      digitalWrite(ledRojo, LOW);
+      digitalWrite(ledAmarillo, LOW);
+      digitalWrite(ledVerde, LOW);
+    }

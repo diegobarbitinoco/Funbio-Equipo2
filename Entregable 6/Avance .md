@@ -55,11 +55,7 @@
 ## Diagrama de flujo:
 [![temp-Image-LHw8n-M.avif](https://i.postimg.cc/CdT5s0Xc/temp-Image-LHw8n-M.avif)](https://postimg.cc/K3fmm6ZT)
 ## Codigo para Leds 5mm - FSR402 (Cambio de presión)
-  // Pines para los LEDs
-    const int ledRojo = 8;
-    const int ledAmarillo = 9;
-    const int ledVerde = 10;
-
+  
     // Pin del sensor de presión
     const int sensorPresion = A0;
 

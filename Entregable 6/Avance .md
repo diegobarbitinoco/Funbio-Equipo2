@@ -54,6 +54,8 @@
     }
 ## Diagrama de flujo:
 [![temp-Image-LHw8n-M.avif](https://i.postimg.cc/CdT5s0Xc/temp-Image-LHw8n-M.avif)](https://postimg.cc/K3fmm6ZT)
+## Codigo para Leds 5mm - FSR402 (Cambio de presión)
+
       
 ## 2. Avance del prototipado Electrónico: ## 
 [![funbio2.jpg](https://i.postimg.cc/pXwSkY3B/funbio2.jpg)](https://postimg.cc/vcvXZ9Y1)
